@@ -4,6 +4,7 @@
 <ul>
 	<li>
 		<p>🔭 I’m currently working on...</p>
+		<p>Javascript</p>
 	</li>
 	<li>
 		<p>🌱 I’m currently learning...</p>
