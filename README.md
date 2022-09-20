@@ -3,17 +3,16 @@
 <p align="center" width="150px">{INSERT DESCRIPTION}</p>
 <ul>
 	<li>
-		<p>🔭 I’m currently working on...</p>
-		<p>Javascript</p>
+		<p>🔭 I’m currently working on helping develop a custom-made ETL platform called DEXPDQ. Utilizing PostgreSQL, Python, PHP, HTML and CSS. As a Data Engineer with doTERRA, I am helping oversee all ETL of data and even seeking opportunities to bring more data in that will help the company make better data-driven decisions.</p>
 	</li>
 	<li>
-		<p>🌱 I’m currently learning...</p>
+		<p>🌱 I’m currently learning computer vision possibilities and machine lerning capabilities. Capturing data from API's is something I'm learning to integrate into these concepts as well! Working is JSON data is a thrill and I can't wait to see what other opportunities come my way indulging in the computer vision space!</p>
 	</li>
 	<li>
-		<p>💬 Ask me about...</p>
+		<p>💬 Ask me about my transition from Mechanical Engineering by study, to Manufacturing Engineering by Profession, to Data Engineering by profession! I've always loved working with data and programming things. So there has always been a background passion for such a thing even throughout school!</p>
 	</li>
 	<li>
-		<p>⚡ Fun fact...</p>
+		<p>⚡ Fun fact: I know how to do the fire dance! In Samoan, it's called the 'siva afi'.</p>
 	</li>
 
 <h2>📈 Statistics</h2>
