@@ -1,6 +1,6 @@
 <h1 align="center">Talofa Lava! 🤙🏽🌊<br>My Name Is Matthew Tesimale</h1>
 
-<p align="center" width="150px">{INSERT DESCRIPTION}</p>
+<p align="center" width="150px">Mechanical Engineer gone Data!</p>
 <ul>
 	<li>
 		<p>🔭 I’m currently working on helping develop a custom-made ETL platform called DEXPDQ. Utilizing PostgreSQL, Python, PHP, HTML and CSS. As a Data Engineer with doTERRA, I am helping oversee all ETL of data and even seeking opportunities to bring more data in that will help the company make better data-driven decisions.</p>
