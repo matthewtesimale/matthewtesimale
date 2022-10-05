@@ -1,12 +1,13 @@
 <h1 align="center">Talofa Lava! 🤙🏽🌊<br>My Name Is Matthew Tesimale</h1>
 
-<p align="center" width="150px">Mechanical Engineer gone Data!</p>
+<p align="center" width="150px">Mechanical Engineer gone Data! I went into my Bachelor's having fully accepted to become a Mechanical Engineer. However, upon taking classes, I found myself driving up a passion working with code! Mechatronics, Fluid Dynamics in Python, VBA, Mathematica, MATLAB, Raspberry Pi's, Arduino's, Computer Vision! Out of school I got a job with doTERRA in their manufacturing space, where I was able to spin up projects from scratch that helped replace their immense use of paper for data collection. Helping revolutionize their data collection processes to be more tech-savvy is what kick-started my career in tech.</p>
+<p align="center" width="150px">Having a study background in Mechanical Engineering helps me see data in a more practical way and leads me to ask the right questions regarding source data.</p>
 <ul>
 	<li>
-		<p>🔭 I’m currently working on helping develop a custom-made ETL platform called DEXPDQ. Utilizing PostgreSQL, Python, PHP, HTML and CSS. As a Data Engineer with doTERRA, I am helping oversee all ETL of data and even seeking opportunities to bring more data in that will help the company make better data-driven decisions.</p>
+		<p>🔭 I’m currently working on utilizing computer vision and machine learning principles to help solve some of the common world problems we are facing today. As a Data Engineer with doTERRA, I am helping oversee all ETL of data and even seeking opportunities to bring more data in that will help the company make better data-driven decisions.</p>
 	</li>
 	<li>
-		<p>🌱 I’m currently learning computer vision possibilities and machine lerning capabilities. Capturing data from API's is something I'm learning to integrate into these concepts as well! Working is JSON data is a thrill and I can't wait to see what other opportunities come my way indulging in the computer vision space!</p>
+		<p>🌱 I’m currently learning computer vision possibilities and machine lerning capabilities. Capturing data from API's is something I'm learning to integrate into these concepts as well! Working with JSON data is a thrill and I can't wait to see what other opportunities come my way indulging in the computer vision space!</p>
 	</li>
 	<li>
 		<p>💬 Ask me about my transition from Mechanical Engineering by study, to Manufacturing Engineering by Profession, to Data Engineering by profession! I've always loved working with data and programming things. So there has always been a background passion for such a thing even throughout school!</p>
