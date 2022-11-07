@@ -28,9 +28,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=matthewtesimale&show_icons=true" />
 </picture>
-<!-- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=matthewtesimale&theme=react"></p> -->
-<!-- <p align="center"><b>Visitor's Count</b></p> -->
-<!-- <p align="center"><img src="https://profile-counter.glitch.me/%7Bmatthewtesimale%7D/count.svg" alt="visitor badge"/></p> -->
 
 <h2>🛠 Tech Stack</h2>
 
