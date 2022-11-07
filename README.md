@@ -17,7 +17,17 @@
 	</li>
 
 <h2>📈 Statistics</h2>
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewtesimale)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=matthewtesimale&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=matthewtesimale&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=matthewtesimale&show_icons=true" />
+</picture>
 <!-- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=matthewtesimale&theme=react"></p> -->
 <!-- <p align="center"><b>Visitor's Count</b></p> -->
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/%7Bmatthewtesimale%7D/count.svg" alt="visitor badge"/></p> -->
