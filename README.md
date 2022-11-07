@@ -17,8 +17,8 @@
 	</li>
 
 <h2>📈 Statistics</h2>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=matthewtesimale&count_private=true&show_icons=true&&theme=react&include_all_commits=true" width="400"></p> 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewtesimale&layout=compact&hide=TSQL&theme=react"></p>
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!-- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=matthewtesimale&theme=react"></p> -->
 <!-- <p align="center"><b>Visitor's Count</b></p> -->
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/%7Bmatthewtesimale%7D/count.svg" alt="visitor badge"/></p> -->
