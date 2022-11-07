@@ -17,8 +17,7 @@
 	</li>
 
 <h2>📈 Statistics</h2>
-<img src="https://raw.githubusercontent.com/matthewtesimale/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/matthewtesimale/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewtesimale)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=matthewtesimale&theme=react"></p> -->
 <!-- <p align="center"><b>Visitor's Count</b></p> -->
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/%7Bmatthewtesimale%7D/count.svg" alt="visitor badge"/></p> -->
